@@ -24,6 +24,10 @@
 [浅谈NAN](./基础数据库/Pandas/浅谈NAN.ipynb)
 
 
+[Mapping&&Replace](./基础数据库/Pandas/Mapping和Replace.ipynb)
+
+
+
 
 
 ## 将所有业务数据经汇总处理，构成数据仓库（DW） 
