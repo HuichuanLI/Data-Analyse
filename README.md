@@ -15,6 +15,17 @@
 
 [DataFrame](./基础数据库/Pandas/DataFrame.ipynb)
 
+[Reindexing](./基础数据库/Pandas/Reindexing Series and DataFrame.ipynb)
+
+[浅谈NAN](./基础数据库/Pandas/深入理解Series和Dataframe.ipynb)
+
+[多级index](./基础数据库/Pandas/多级Index.ipynb)
+
+[浅谈NAN](./基础数据库/Pandas/浅谈NAN.ipynb)
+
+
+
+
 ## 将所有业务数据经汇总处理，构成数据仓库（DW） 
 - 全部事实的记录 
 - 部分维度与数据的整理（数据集市一DM）
