@@ -32,7 +32,11 @@
 
 [Series和DataFrame的排序](./基础数据库/Pandas玩转数据/Series和DataFrame的排序.ipynb)
 
-[S重命名Dataframe的Index](./基础数据库/Pandas玩转数据/重命名Dataframe的Index.ipynb)
+[重命名Dataframe的Index](./基础数据库/Pandas玩转数据/重命名Dataframe的Index.ipynb)
+
+[DataFrame的merge操作](./基础数据库/Pandas玩转数据/DataFrame的merge操作.ipynb)
+
+
 
 
 
