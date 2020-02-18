@@ -26,6 +26,15 @@
 
 [Mapping&&Replace](./基础数据库/Pandas/Mapping和Replace.ipynb)
 
+### Pandas玩转数据
+
+[Series和DataFrame数学运算](./基础数据库/Pandas玩转数据/Series和DataFrame的简单数学运算.ipynb)
+
+[Series和DataFrame的排序](./基础数据库/Pandas玩转数据/Series和DataFrame的排序.ipynb)
+
+[S重命名Dataframe的Index](./基础数据库/Pandas玩转数据/重命名Dataframe的Index.ipynb)
+
+
 
 
 
