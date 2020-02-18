@@ -5,6 +5,15 @@
 ## 基础数据操作
 ### Numpy
 
+[Numpy的基础操作](./基础数据库/数组与矩阵运算.ipynb)
+
+[Numpy的保存与加载](./基础数据库/Array的input和output.ipynb)
+
+
+### Pandas
+[Series](./基础数据库/Pandas/Series.ipynb)
+
+[DataFrame](./基础数据库/Pandas/DataFrame.ipynb)
 
 ## 将所有业务数据经汇总处理，构成数据仓库（DW） 
 - 全部事实的记录 
