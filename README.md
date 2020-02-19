@@ -36,6 +36,13 @@
 
 [DataFrame的merge操作](./基础数据库/Pandas玩转数据/DataFrame的merge操作.ipynb)
 
+[透视表](./基础数据库/Pandas玩转数据/透视表.ipynb)
+
+[Aggregation](./基础数据库/Pandas玩转数据/数据聚合技术Aggregation.ipynb)
+
+[GroupBy](./基础数据库/Pandas玩转数据/数据分组技术GroupBy.ipynb)
+
+
 
 
 
