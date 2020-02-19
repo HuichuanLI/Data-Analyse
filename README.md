@@ -47,8 +47,12 @@
 
 ### Matplotlib && Seaborn
 
-[GroupBy](./基础数据库/Matplotlib/matplotlib的简单绘图-plot.ipynb)
+[Matplotlib](./基础数据库/Matplotlib/matplotlib的简单绘图-plot.ipynb)
 
+[Seaborn](./基础数据库/Matplotlib/Seaborn.ipynb)
+
+
+### 实战分析
 
 
 
