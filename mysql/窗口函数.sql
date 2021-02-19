@@ -119,3 +119,28 @@ pay_time) lead_dt
 FROM user_trade)a
 WHERE a.lead_dt is not null
 and datediff(a.lead_dt,a.pay_time)>100;
+
+
+需求11: 查询出每年支付时间间隔最长的用户
+
+SELECT
+years,
+b.user_name,
+b.pay_days
+FROM
+(SELECT
+years,
+a.user_name,
+datediff(a.pay_time,a.lag_dt) pay_days,
+rank() over(partition by years order by
+datediff(a.pay_time,a.lag_dt) desc) rank1
+FROM
+(SELECT
+year(pay_time) as years,
+user_name,
+pay_time,
+lag(pay_time) over(partition by user_name,year(pay_time)
+order by pay_time) lag_dt
+FROM user_trade)a
+WHERE a.lag_dt is not null)b
+WHERE b.rank1=1;
